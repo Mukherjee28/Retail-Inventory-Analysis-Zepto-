@@ -56,7 +56,6 @@ Retail-Inventory-Analysis-Zepto/
 ├── zepto_v2_dataset.csv
 ├── ProjectFindings.md
 └── README.md
-```
 
 # 🛠 SQL Concepts Demonstrated
 ### Basic SQL
